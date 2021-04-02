@@ -1,9 +1,7 @@
 # Raptor Maps Coding Challenge
 
 ## Instructions
-The project can be found on github at the following URL.
-
-     - https://github.com/ehrlichj/Raptor_Maps_Coding_Challenge
+The project can be found on github at the following URL: https://github.com/ehrlichj/Raptor_Maps_Coding_Challenge
 
 In order to run the project type the following commands into a command line directory.
 
