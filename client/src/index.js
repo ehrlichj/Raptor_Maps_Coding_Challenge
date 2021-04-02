@@ -136,7 +136,7 @@ const Map = () => {
                                     for(const tech of dangerous_technicians){
                                         alert_message_technicians += tech + " "
                                     }
-                                    alert_message = "Unsafe Conditions\nSite: " +  (site_id-1).toString() + "\nTechncians: " +  alert_message_technicians
+                                    alert_message = "Unsafe Conditions\nSite: " +  (site_id).toString() + "\nTechncians: " +  alert_message_technicians
                                     alert(alert_message);
                                 }
                             }

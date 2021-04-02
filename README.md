@@ -1,9 +1,16 @@
 # Raptor Maps Coding Challenge
 
 ## Instructions
+The project can be found on github at the following URL.
+
+     - https://github.com/ehrlichj/Raptor_Maps_Coding_Challenge
 
 In order to run the project type the following commands into a command line directory. These commands start assuming that current directory is the root folder of this project.
 
+First download the project from github using the command:
+```bash
+    git clone https://github.com/ehrlichj/Raptor_Maps_Coding_Challenge.git
+```
 ```bash
     cd client
 ```
