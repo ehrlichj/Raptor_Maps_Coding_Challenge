@@ -5,12 +5,14 @@ The project can be found on github at the following URL.
 
      - https://github.com/ehrlichj/Raptor_Maps_Coding_Challenge
 
-In order to run the project type the following commands into a command line directory. These commands start assuming that current directory is the root folder of this project.
+In order to run the project type the following commands into a command line directory.
 
 First download the project from github using the command:
 ```bash
     git clone https://github.com/ehrlichj/Raptor_Maps_Coding_Challenge.git
 ```
+These commands start assuming that current directory is the root folder of this project.
+
 ```bash
     cd client
 ```
@@ -18,7 +20,7 @@ First download the project from github using the command:
     npm run dev
 ```
 
-After entering these commands both the server and frontend will begin to run. This should automatically open a browser instance to http://localhost:3000. If this is not the case please navigate there.
+After entering these commands both the server and frontend will begin to run. This should automatically open a browser instance to http://localhost:3000. If this is not the case please navigate there in a browser.
 
 ## Notes on the Project
  - Once the command "npm run dev" has been entered the project will begin to run on with the backend API at localhost:5000 and the frontend at localhost:3000.
